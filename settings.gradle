@@ -1,0 +1,3 @@
+rootProject.name = 'TestMD'
+include 'E-Common'
+include 'E-WebParent'
